@@ -4,7 +4,7 @@
 
 ### Authors: Morteza Banagar, Harpreet S. Dhillon, and Andreas F. Molisch
 
-### Emails: mbanagar@vt.edu, hdhillon@vt.edu, molisch@usc.edu
+### Emails: mbanagar@vt.edu, hdhillon@vt.edu, and molisch@usc.edu
 
 This repository contains matlab codes for the simulations in [1].
 
