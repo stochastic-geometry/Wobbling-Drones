@@ -11,7 +11,7 @@ This repository contains matlab codes for the simulations in [1].
 Please cite [1] for reusing these codes and contact Morteza Banagar at mbanagar@vt.edu if you have any questions.
 
 
-![System Model](https://github.com/stochastic-geometry/Wobbling-Drones/blob/master/SystemModel.jpg)
+![System Model](https://github.com/stochastic-geometry/Wobbling-Drones/blob/master/SystemModel.JPG)
 
 ### References
 
